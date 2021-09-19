@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TharinduWishwadeepa
-- 👀 I’m interested in Computer Networking and Web Development
+- 👀 I’m interested in Computer Networking, Cloud Computing and Web Development
 
 
 <!---
